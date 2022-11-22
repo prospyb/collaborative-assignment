@@ -59,3 +59,17 @@ img {
     left: 200px;
     bottom: 210px;
 }
+
+.Sharon {
+    height: 250px;
+    width: 250px;
+    background-color: rgb(123, 255, 0);
+    box-shadow: -2px 2px 15px 0 rgba(0, 0, 0, 0.5);
+    padding: 20px 40px;
+    font-style: italic;
+    position: relative;
+}
+.Sharon h5 {
+    text-align: center;
+    padding: 2px;
+}
